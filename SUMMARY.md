@@ -1,7 +1,7 @@
 # Summary
 
-* [What is Growth Hack](chapter1.md)
-* [Customer Life Cycle](chapter1.md)
+* What is Growth Hack
+* Customer Life Cycle
 * Landing Page
    - What is Landing Page
    - Different types of Landing Page
@@ -17,6 +17,8 @@
    - Optimizely
    - A / B Testing
 * Email Marketing
+   - Course 
+   - https://www.getdrip.com/
 * Content Marketing
 * SEO
 * Customer Support
