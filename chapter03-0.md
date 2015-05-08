@@ -22,7 +22,7 @@ Growth Hack 脫離不了「數據分析」和「量化指標」。
 
 實際上作 Growth Hack 與 UX，則多半以用戶行為為中心去改變策略。
 
-通常的作法會是採用 [Mixpanl](http://mixpanel.com) 量測行為，用 [Optimizely](http://optimizely.com) 進行 A/B Testing。
+通常的會採用 [Mixpanl](http://mixpanel.com) 這套工具去量測行為，用 [Optimizely](http://optimizely.com) 進行 A/B Testing。
 
 Mixpanel 主要提供了幾大關鍵指標：
 
@@ -31,4 +31,4 @@ Mixpanel 主要提供了幾大關鍵指標：
 * 用戶活躍度（Cohorts）：網站用戶的活躍度如何，可以用來區分忠實用戶和普通用戶。
 * 單用戶行為分析（People）：單一用戶在網站上做了哪些操作，過程是如何的。
 
-透過在網站的介面中埋 Event 讓使用者觸發，去觀測描繪出使用者的操作行為，並進而觀測轉換的留存率和流失率。
+透過在網站的介面中埋 Event 讓使用者觸發，去描繪出使用者的操作行為，並進而觀測轉換的留存率和流失率。

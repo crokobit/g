@@ -9,7 +9,7 @@
    - [Landing Page Structure](chapter02-4.md)
    - [Resources](chapter02-n.md)
 * [Measuring](chapter03-0.md)
-   - Funnel
+   - [Segment.io](chapter03-1.md)
    - Event Tracking
    - A / B Testing
    - [Resources](chapter03-n.md)
