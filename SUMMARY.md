@@ -4,7 +4,8 @@
    - [Customer Lifecycle](chapter01-2.md)
 * [Landing Page](chapter02-2.md)
    - [Landing Page Types](chapter02-2.md)
-   - [Why we need Landing Page](chapter02-3.md)
+   - [Why we need Landing Page?](chapter02-3.md)
+   - Using Landing Page to test MVP
    - Copywriting
     - Headline
     - Tagline
