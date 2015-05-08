@@ -28,11 +28,13 @@ Customer Lifecycle 是一個用來解釋消費者在接觸、考慮購買、持�
 
 ### Acquisition （獲取訪客，爭取曝光）
 
-大多數人對於增進 Acquisition 的作法是下廣告，或者 SEO。這叫 Acquisition。
+常見增進 Acquisition 的作法是下廣告，或者 SEO，增加曝光。
 
 增強 Acquisition 的手法不外乎是經營粉絲團，下 FB 廣告，寫很好的 FB 廣告或一般廣告流量，改善 Open Graph 上的標題與資訊，搜尋引擎上的文案。
 
-很多網路從業者大多數熟稔的是 Acquisition。而且很多人甚至會以為 Acquisition = Growth Hack。其實在 Growth Hack 裡，Acquisition 只是第一步。真正關鍵的是進行 Activation 的技巧，以及 Activation 以後的互動。
+對於許多網路從業者來說，大家熟稔的是 Acquisition。這就是為什麼普遍很多人會以為 Acquisition = Growth Hack。
+
+其實在 Growth Hack 裡，Acquisition 只是第一步。真正關鍵的是進行 Activation 的技巧，以及 Activation 以後的互動。
 
 Activation 才是讓使用者踏入你的生意的開始。客戶累積足夠的衝動願意開一個帳戶，體驗你的生意帶給他的 "Ah-Ha" moment。
 
