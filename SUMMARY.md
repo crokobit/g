@@ -9,7 +9,7 @@
    - [Landing Page Structure](chapter02-4.md)
    - [Resources](chapter02-5.md)
 * Measuring
-   - Minxpanel
+   - Mixpanel
    - Segement.io
    - Optimizely
    - A / B Testing
