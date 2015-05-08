@@ -24,11 +24,11 @@
   - [Resources](chapter05-n.md)
 * Content Marketing
   - [Resources](chapter06-n.md)
-* SEO    
 * Onboarding
   - Intro Screen
 * Retention
   - User re-engagement Strategy
+  - [Resources](chapter08-n.md)
   - Resource
     - Receipful
     - getfivestars.com
