@@ -25,4 +25,4 @@
 
 （記得要重 Load 網站一下，看有沒有送出 Event）
 
-![(http://d.pr/i/1egjh+)
+![](http://d.pr/i/1egjh+)
