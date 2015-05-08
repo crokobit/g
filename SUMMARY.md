@@ -23,6 +23,7 @@
   - Mailing List
   - [Resources](chapter05-n.md)
 * Content Marketing
+  - [Resources](chapter06-n.md)
 * SEO    
 * Onboarding
   - Intro Screen
