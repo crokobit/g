@@ -1,4 +1,4 @@
-# What is Growth Hacker?
+# What is Growth Hack?
 
 提到 Growth Hack，相信很多人都對 Growth Hacker 是什麼(幫忙公司巨幅成長的人）有個概念。但是對 (Howto ) Growth Hack 可說是很陌生。
 
@@ -81,7 +81,9 @@ Referral Program 不僅只是設計 Referral Code 這麼膚淺。好的 Referral
 
 ## 小結
 
-知道了這五個主題，接下來用這五個主題一一去檢視自己經營的服務，就有很多點可以去作改善。比如說要怎樣設計 Landing Page，怎麼樣設計 Tagline，怎麼樣設計 Call to Action 流程。怎麼樣設計好第一次的 onboarding experience。怎麼樣做好 Customer Service。怎麼樣 Build Referral Engine。如何增加 Customer Re-engagement 的機會。
+知道了這五個主題，接下來用這五個主題一一去檢視自己經營的服務，就有很多點可以去作改善。
+
+比如說要怎樣設計 Landing Page，怎麼樣設計 Tagline，怎麼樣設計 Call to Action 流程。怎麼樣設計好第一次的 onboarding experience。怎麼樣做好 Customer Service。怎麼樣 Build Referral Engine。如何增加 Customer Re-engagement 的機會。
 
 光是用這些關鍵字，接下來就可以找到很多文章。而且會更讓你吃驚的是，國外在 Growth Hack 這個主題上，其實已經相當成熟，幾乎你要作什麼 improvement，都有相對應的 SaaS 軟體協助你將各個營運面向做到更好。
 
