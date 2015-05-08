@@ -12,6 +12,7 @@
    - [Segment.io](chapter03-1.md)
       - [Install](chapter03-1.md)
       - [Trigger Event](chapter03-1-1.md)
+   - [Mixpanel](chapter03-2.md)
    - Event Tracking
    - A / B Testing
    - [Resources](chapter03-n.md)
