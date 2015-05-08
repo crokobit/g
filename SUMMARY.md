@@ -1,6 +1,6 @@
 # Summary
 
-* What is Growth Hack [chapter1.md]
+* [What is Growth Hack](chapter1.md)
 * Landing Page
    - What is Landing Page
    - Different types of Landing Page
