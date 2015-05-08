@@ -12,13 +12,16 @@
    - Funnel
    - Event Tracking
    - A / B Testing
+   - [Resources](chapter03-n.md)
 * Customer Support
   - FAQ
   - Live Chat
-
-* Email Marketing
-   - Course 
-   - https://www.getdrip.com/
+  - [Resources](chapter04-n.md)
+* Email Followup
+  - Email to active account
+  - Crash Course
+  - Mailing List
+  - [Resources](chapter05-n.md)
 * Content Marketing
 * SEO    
 * Onboarding
