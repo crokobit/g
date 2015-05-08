@@ -29,9 +29,6 @@
 * Retention
   - User re-engagement Strategy
   - [Resources](chapter08-n.md)
-  - Resource
-    - Receipful
-    - getfivestars.com
 * Referral
   - How to design a referal program
   - Referral program
@@ -39,7 +36,7 @@
     - Landing Page
     - Invitation Dashboard
     - DO / DONT
-  - Resource
+  - [Resources](chapter09-n.md)
     - referralsaasquatch.com
 * Revenue
   - Increase basket size
