@@ -56,7 +56,7 @@ Activation 才是讓使用者踏入你的生意的開始。客戶累積足夠的
 值得注意的是很多 Mobile App 因為大家都會互相抄襲對方上線的設計，所以很自然的幾乎所有 Mobile App 都有一個很好的 Landing Page。但是大多數的網站服務很少意識到自己也需要一個。
 
 
-### Retention
+### Retention （回訪使用）
 
 當使用者 Activated 之後，你會想要讓使用者繼續回訪，這叫 Retention。
 
@@ -64,7 +64,7 @@ Activation 才是讓使用者踏入你的生意的開始。客戶累積足夠的
 
 如果希望消費者繼續進行消費，會持續的使用 Daily deal，或者是 Loyalty program....etc.作一些互惠的活動，來保持回訪率。
 
-### Referral
+### Referral （介紹他人使用）
 
 Referral 是讓使用者願意且希望自己的朋友們也來用。拓展使用者 Base。
 
@@ -72,7 +72,7 @@ Referral Program 不僅只是設計 Referral Code 這麼膚淺。好的 Referral
 
 比如說 Airbnb 在 Referral Landing，獎勵與 Referral 頁面，介紹就做的相當好。Dropbox 則是擅長辦競賽以及 online quest。
 
-### Revenue
+### Revenue （獲取利潤）
 
 最後是 Revenue，Revenue 談的是如何 increase revenene。包括 long-time customer revenue, increase customer basket size, customer re-engagement。計算 Customer 的 Lifetime value 與 ROI。
 
