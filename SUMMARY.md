@@ -5,7 +5,8 @@
 * [Landing Page](chapter02-0.md)
    - [Landing Page Types](chapter02-1.md)
    - [Why we need Landing Page?](chapter02-2.md)
-   - Using Landing Page to test MVP
+   - [Using Landing Page to test MVP](chapter02-3.md)
+   - [Landing Page Structure]
    - Copywriting
     - Headline
     - Tagline
