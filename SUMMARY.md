@@ -8,10 +8,9 @@
    - [Using Landing Page to test MVP](chapter02-3.md)
    - [Landing Page Structure](chapter02-4.md)
    - [Resources](chapter02-5.md)
-* Measuring
-   - Mixpanel
-   - Segement.io
-   - Optimizely
+* [Measuring](chapter03-0.md)
+   - Funnel
+   - Event Tracking
    - A / B Testing
 * Email Marketing
    - Course 
