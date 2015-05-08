@@ -1,4 +1,4 @@
-My Awesome Book
+Growth Hack 101
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+這本書是 Xdite 的 Growth Hack 筆記。本書尚在永遠的草稿中。
