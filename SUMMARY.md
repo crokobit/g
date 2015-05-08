@@ -10,6 +10,8 @@
    - [Resources](chapter02-n.md)
 * [Measuring](chapter03-0.md)
    - [Segment.io](chapter03-1.md)
+      - [Install](chapter03-1.md)
+      - [Trigger Event](chapter03-1-1.md)
    - Event Tracking
    - A / B Testing
    - [Resources](chapter03-n.md)

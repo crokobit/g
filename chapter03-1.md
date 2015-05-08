@@ -24,13 +24,3 @@
 ![](http://d.pr/i/1lF1C+)
 
 
-4) 在想追蹤的頁面裡面埋 Event
-
-比如說我想要追蹤首頁的曝光，首頁的 template 檔案是在 `app/views/jobs/index.html.erb`。我會在該頁最下面埋下這樣的追蹤碼。
-
-![](http://d.pr/i/1iaJb+)
-
-5) 打開 Debugger 確認有收到 Event。
-
-
-![](http://d.pr/i/14blI+)
