@@ -14,6 +14,6 @@ Click Through Landing Pages 比較常出現的場景會是在 e-commerce funnels
 
 Lead Generation Landing Pages 比較常出現的場景會是在需要搜集資料的場景上，比如說訂閱電子報，加入 Waiting List，索取免費試用。鼓勵使用者送出自己的資料。
 
-### 衍生閱讀：
+### 延伸閱讀
 
 [What is a Landing Page?](http://unbounce.com/landing-page-articles/what-is-a-landing-page/)
