@@ -1,9 +1,9 @@
 # Summary
 
-* [What is Growth Hack](chapter1.md)
+* [What is Growth Hack](chapter01-1.md)
+  - [Customer Lifecycle](chapter01-2.md)
 * Landing Page
-   - What is Landing Page
-   - Different types of Landing Page
+   - [What is Landing Page](chapter02-1.md)
    - Copywriting
     - Headline
     - Tagline
