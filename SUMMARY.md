@@ -37,7 +37,6 @@
     - Invitation Dashboard
     - DO / DONT
   - [Resources](chapter09-n.md)
-    - referralsaasquatch.com
 * Revenue
   - Increase basket size
   - Pricing Strategy
