@@ -22,14 +22,7 @@ Landing Page 的主要結構分為這幾個部分。
 5. 讓使用者相信你。（收集可供信任的好評）
 6. 在「CALL TO ACTION」階段擺脫猶豫。（可以是不好用保證全額退費之類的「保證」）
 
+### 延伸閱讀
 
 * [5 Landing Page Headline Formulas You Can Test Today](http://unbounce.com/landing-pages/5-headline-formulas/)
-
-### 相關資源：
-
-* [AppSumo copywriting course](http://www.appsumo.com/copywriting-course/) : 撰寫 Copy 的教學
-* [Unbounce](http://unbounce.com/)：製作 Landing Page 的線上服務
-* [Oneliners](http://http://oneliners.co/.co)：幫忙想 Tagline 的服務。
-* [Optimizely](http://optimizely.com): A/B Testing 工具，可以用來測試文案、圖片、按鈕等等
-* [123RF](http://www.123rf.com/) : 線上圖庫
 

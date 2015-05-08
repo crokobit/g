@@ -7,12 +7,7 @@
    - [Why we need Landing Page?](chapter02-2.md)
    - [Using Landing Page to test MVP](chapter02-3.md)
    - [Landing Page Structure](chapter02-4.md)
-   - Copywriting
-    - Headline
-    - Tagline
-   - Resource
-    - Unbounce.com
-    - Oneliners.co
+   - [Resources](chapter02-5.md)
 * Measuring
    - Minxpanel
    - Segement.io
