@@ -10,4 +10,3 @@ Growth Hacker 專指那群既懂技術又懂營運，以技術的手段來驅動
 
 但 Growth Hack 遠不只如此。
 
-要入門 Growth Hack 前，我認為想學這套技術的人應該要從 Customer Lifecycle 這個主題切入。

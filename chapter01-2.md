@@ -1,5 +1,7 @@
 ## Customer Lifecycle
 
+要入門 Growth Hack 前，我認為想學這套技術的人應該要從 Customer Lifecycle 這個主題切入。
+
 了解 Customer Lifecycle，讀者才有辦法理解為什麼「Growth Hacker」必須要是既懂技術又懂營運的人才。Growth Hack 不是 Trick，而是基於營運面的技術優化。
 
 Customer Lifecycle 是一個用來解釋消費者在接觸、考慮購買、持續購買、推薦其他人使用某一個商家當中的進行性行為。有五大階段：
