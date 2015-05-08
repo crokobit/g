@@ -13,6 +13,8 @@
       - [Install](chapter03-1.md)
       - [Trigger Event](chapter03-1-1.md)
    - [Mixpanel](chapter03-2.md)
+      - [Install](chapter03-2.md)
+      - [Create Funnel](chapter03-2-1.md)
    - Event Tracking
    - A / B Testing
    - [Resources](chapter03-n.md)
