@@ -7,23 +7,20 @@
    - [Why we need Landing Page?](chapter02-2.md)
    - [Using Landing Page to test MVP](chapter02-3.md)
    - [Landing Page Structure](chapter02-4.md)
-   - [Resources](chapter02-5.md)
+   - [Resources](chapter02-n.md)
 * [Measuring](chapter03-0.md)
    - Funnel
    - Event Tracking
    - A / B Testing
+* Customer Support
+  - FAQ
+  - Live Chat
+
 * Email Marketing
    - Course 
    - https://www.getdrip.com/
 * Content Marketing
-* SEO
-* Customer Support
-  - FAQ
-  - Live Chat
-  - Resource
-    - Zendesk
-    - Groove
-    - Reamaze
+* SEO    
 * Onboarding
   - Intro Screen
 * Retention
