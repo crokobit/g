@@ -1,10 +1,10 @@
 # Summary
 
-* [What is Growth Hack](chapter01-1.md)
-   - [Customer Lifecycle](chapter01-2.md)
-* [Landing Page](chapter02-2.md)
-   - [Landing Page Types](chapter02-2.md)
-   - [Why we need Landing Page?](chapter02-3.md)
+* [What is Growth Hack](chapter01-0.md)
+   - [Customer Lifecycle](chapter01-1.md)
+* [Landing Page](chapter02-0.md)
+   - [Landing Page Types](chapter02-1.md)
+   - [Why we need Landing Page?](chapter02-2.md)
    - Using Landing Page to test MVP
    - Copywriting
     - Headline
