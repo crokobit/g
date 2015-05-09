@@ -26,7 +26,6 @@
    - [It's all about communication](chapter04-5.md)
 * [Targeted Email](chapter05-0.md)
   - [Customer.io](chapter05-1.md)
-  - [Resources](chapter05-n.md)
 * Drip Marketing
   - [Resources](chapter06-n.md)
 * Customer Onboarding
