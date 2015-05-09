@@ -1,6 +1,6 @@
 # Tools
 
-網路上比較常見推薦的有三家服務。
+網路上有三家比較知名的 Customer Support Service 軟體。
 
 ### Zendesk
 
