@@ -24,17 +24,13 @@
    - [FAQ / Help Desk](chapter04-3.md)
    - [Live Chat](chapter04-4.md)
    - [It's all about communication](chapter04-5.md)
-* Email Followup
-  - Email to active account
-  - Crash Course
-  - Mailing List
+* [Targeted Email](chapter-5-0.md) 
   - [Resources](chapter05-n.md)
-* Content Marketing
+* Drip Marketing
   - [Resources](chapter06-n.md)
-* Onboarding
+* Customer Onboarding
   - Intro Screen
 * Retention
-  - User re-engagement Strategy
   - [Resources](chapter08-n.md)
 * Referral
   - How to design a referal program
@@ -47,6 +43,7 @@
 * Revenue
   - Increase basket size
   - Pricing Strategy
-  - customer lifetime value
+  - Sales
+  - Customer Lifetime value
   - ROI
 
