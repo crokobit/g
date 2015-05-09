@@ -10,6 +10,8 @@
 
 ![](http://d.pr/i/195lW+)
 
+### LiveChat 是「立即」緩解客戶焦慮的萬靈丹
+
 網站常見右下角的 Leave us a message。
 
 ![](http://d.pr/i/1dBtj+) 通常就是這一類的 LiveChat 的服務。聽到 LiveChat，服務商千萬不要覺得壓力很大，覺得無法一天到晚即時在線上回答問題怎麼辦？所以最後不安裝。
