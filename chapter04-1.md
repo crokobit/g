@@ -4,9 +4,11 @@
 
 ![](http://d.pr/i/16325+)
 
-在史丹佛創業課第七課 "How to Build Products Users Love"，Wufoo 的創辦人提到他認為 Growth 的概念是很簡單的，就是轉化率和流失率之間的關係。
+在史丹佛創業課第七課 "How to Build Products Users Love"，Wufoo 的創辦人 Kevin Hale提到他認為 Growth 的概念其實是很簡單的，就是轉化率和流失率之間的關係。
 
 這兩者之間的距離越大，你的產品成長的越快。
+
+### 消除疑惑
 
 在網路上幾乎所有增進轉換率技巧的文章，多數都是圍繞著一個相同的主題，消除陌生訪客的疑惑。
 
