@@ -23,6 +23,7 @@
    - [Everybody do Customer Support](chapter04-2.md)
    - [FAQ / Help Desk](chapter04-3.md)
    - [Live Chat](chapter04-4.md)
+   - [It's all about communication](chapter04-5.md)
 * Email Followup
   - Email to active account
   - Crash Course
