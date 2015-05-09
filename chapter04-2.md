@@ -1,30 +1,13 @@
-# Tools
+## Everybody do Customer Support
 
-網路上比較常見推薦的有三家服務。
+不管你的前端聯絡，是一個表單，或者是一行 email address。通常常見的做法都會是寄到 support@yourcompany.com。
 
-### Zendesk
+但是回信的人，往往不會是同一人。生意一大，就會有多個人需要輪值當客服。總不能一直共用同一個信箱。
 
-<http://zendesk.com>
+而 [Zendesk](http://zendesk.com)、 [Groove](http://groovehq.com)、[Reamaze](http://) 就是提供 Email as Ticket 的線上客服工具。訪客可以繼續使用 Email 的形式跟公司客服溝通。
 
-![](http://d.pr/i/16RBX+)
+![](http://d.pr/i/1lsNm+)
 
-### Groove
+但客服卻可以擺脫 Email 信箱這麼麻煩的形式，用線上任務的方式，有條不蘊的組織及安排這些客服信件的內容。（相信我，信箱裡面同時只要有十個訪客提出問題，你就回到手忙腳亂了。）
 
-<http://groovehq.com>
-
-![](http://d.pr/i/15Cji+)
-
-### Reamaze
-
-<http://www.reamaze.com/>
-
-![](http://d.pr/i/1k5uW+)
-
-## 提供服務
-
-它們都提供本書接下來要推薦的幾個技巧所需要的工具。
-
-1. Email As Ticket
-2. Simple FAQ + Helpdesk
-3. Live Chat 整合
-
+這只是第一步。
