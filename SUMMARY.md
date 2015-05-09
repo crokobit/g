@@ -15,7 +15,7 @@
    - [Mixpanel](chapter03-2.md)
       - [Install](chapter03-2.md)
       - [Create Funnel](chapter03-2-1.md)
-   - Event Tracking
+   - [Optimizely](chapter03-3.md)
    - A / B Testing
    - [Resources](chapter03-n.md)
 * Customer Support
@@ -47,3 +47,5 @@
   - Pricing Strategy
   - customer lifetime value
   - ROI
+
+  http://d.pr/i/138Ee
