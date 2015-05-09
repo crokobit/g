@@ -21,7 +21,7 @@
 * [Customer Support](chapter04-0.md)
    - [Tools](chapter04-1.md)
    - [Everybody do Customer Support](chapter04-2.md)
-   - FAQ / Help Desk
+   - [FAQ / Help Desk](chapter04-3.md)
    - Live Chat
   - [Resources](chapter04-n.md)
 * Email Followup
