@@ -22,8 +22,7 @@
    - [Tools](chapter04-1.md)
    - [Everybody do Customer Support](chapter04-2.md)
    - [FAQ / Help Desk](chapter04-3.md)
-   - Live Chat
-  - [Resources](chapter04-n.md)
+   - [Live Chat](chapter04-4.md)
 * Email Followup
   - Email to active account
   - Crash Course

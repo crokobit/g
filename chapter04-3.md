@@ -11,9 +11,9 @@
 
 ### Help Center
 
-如果客戶有更多的疑慮，可以在 FAQ 的最後，多加上一行「Have more questions? Check our online help center」，連到這些客服工具提供的 Help Center。
+如果客戶有更多的疑慮，可以在 FAQ 的最後，多加上一行「Have more questions? Check our online help center」，連到這些客服工具提供的 Help Center。然後在 Help Center 上面擴充幾十條常見的問答。
 
-然後在 Help Center 上面擴充幾十條常見的問答。如果使用者在 Help Center 上還是找不到答案，通常 Help Center 也會有內建機制引導使用者填寫問題表單，它們的疑問一樣也會送到客服信箱。
+如果使用者在 Help Center 上還是找不到答案，通常 Help Center 也會有內建機制引導使用者填寫問題表單，它們的疑問一樣也會送到客服信箱。
 
 
 ![](http://d.pr/i/CIDF+)
