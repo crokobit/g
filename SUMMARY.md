@@ -19,8 +19,9 @@
       - [Install](chapter03-3.md)
       - [Integrate with Mixpanel](chapter03-3-1.md)      
 * [Customer Support](chapter04-1.md)
-  - FAQ
-  - Live Chat
+   - [Tools](chapter04-2.md)
+   - FAQ / Help Desk
+   - Live Chat
   - [Resources](chapter04-n.md)
 * Email Followup
   - Email to active account
