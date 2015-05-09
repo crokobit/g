@@ -18,7 +18,7 @@
    - [Optimizely](chapter03-3.md)
       - [Install](chapter03-3.md)
       - [Integrate with Mixpanel](chapter03-3-1.md)      
-* Customer Support
+* [Customer Support](chapter04-1.md)
   - FAQ
   - Live Chat
   - [Resources](chapter04-n.md)
