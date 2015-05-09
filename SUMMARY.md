@@ -16,6 +16,7 @@
       - [Install](chapter03-2.md)
       - [Create Funnel](chapter03-2-1.md)
    - [Optimizely](chapter03-3.md)
+      - [Install](chapter03-3.md)
       - [Integrate with Mixpanel](chapter03-3-1.md)      
 * Customer Support
   - FAQ
