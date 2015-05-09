@@ -14,7 +14,11 @@
 
 網站常見右下角的 Leave us a message。
 
-![](http://d.pr/i/1dBtj+) 通常就是這一類的 LiveChat 的服務。聽到 LiveChat，服務商千萬不要覺得壓力很大，覺得無法一天到晚即時在線上回答問題怎麼辦？所以最後不安裝。
+![](http://d.pr/i/1dBtj+)
+
+通常就是這一類的 LiveChat 的服務。
+
+聽到 LiveChat，服務商千萬不要覺得壓力很大，覺得無法一天到晚即時在線上回答問題怎麼辦？所以最後不安裝。
 
 事實上，LiveChat 是很有效能舒緩 Customer 焦慮以及疑惑的一個管道。因為 LiveChat 的作用只是一個「鼓勵 Customer 即時溝通需求」的工具。
 
