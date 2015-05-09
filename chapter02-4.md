@@ -26,3 +26,7 @@ Landing Page 的主要結構分為這幾個部分。
 
 * [5 Landing Page Headline Formulas You Can Test Today](http://unbounce.com/landing-pages/5-headline-formulas/)
 
+除了這篇文章之外。Lading Page 廠商 [Unbounce](http://unbounce.com) 在自己的官方部落格上，還提供了不少撰寫 Landing Page 的 Tips，同時官方也會不定期計送 Landing Page tips 給客戶。是相當值得參考的資源。
+
+另外，在後面我們會介紹非常多 Growth 相關的線上服務，這些服務的 Landing Page 都做得相當出色，也可以參考這些服務 Landing 頁 的排版規劃，相信也可以很快的抓到設計重點。
+
