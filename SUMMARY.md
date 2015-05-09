@@ -16,11 +16,7 @@
       - [Install](chapter03-2.md)
       - [Create Funnel](chapter03-2-1.md)
    - [Optimizely](chapter03-3.md)
-      - [Install](chapter03-3.md)
-      - [Integrate with Segment.io](chapter03-3-1.md)
       - [Integrate with Mixpanel](chapter03-3-1.md)      
-   - A / B Testing
-   - [Resources](chapter03-n.md)
 * Customer Support
   - FAQ
   - Live Chat
