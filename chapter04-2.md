@@ -10,9 +10,9 @@
 
 ## Groove
 
-![](http://d.pr/i/16RBX+)
-
 <http://groovehq.com>
+
+![](http://d.pr/i/15Cji+)
 
 ## Reamaze
 
