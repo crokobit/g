@@ -4,7 +4,7 @@
 
 不過回信的人，往往不會是同一人。生意一大，就會有多個同事需要輪值當客服。總不能一直共用同一個信箱。
 
-而 [Zendesk](http://zendesk.com)、 [Groove](http://groovehq.com)、[Reamaze](http://) 就是提供 Email as Ticket 的線上客服工具。訪客可以繼續使用 Email 的形式跟公司客服溝通。
+而 [Zendesk](http://zendesk.com)、 [Groove](http://groovehq.com)、[Reamaze](http://reamaze.com) 就是提供 Email as Ticket 的線上客服工具。訪客可以繼續使用 Email 的形式跟公司客服溝通。
 
 ![](http://d.pr/i/1lsNm+)
 
