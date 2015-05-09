@@ -20,6 +20,4 @@ Email 也是增加 Conversion Rate 以及降低 Churn Rate 的利器。
 
 雖說如此，但這也是 Marketer 的頭大之處，這些行銷的技巧都需要深度可能甚至複雜的程式配合。
 
-## Customer.IO
 
-![](http://d.pr/i/1jLc2+)
